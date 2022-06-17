@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publication List
 ======
 1. Inducing Cooperation via Team Regret Minimization based Multi-Agent Deep Reinforcement Learning\
 Arxiv, 2019 
