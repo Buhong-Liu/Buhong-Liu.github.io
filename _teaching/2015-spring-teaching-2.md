@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "7CCSMHFF High-Frequency Finance"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Postgraduate course"
+venue: "Department of Informatics, King's College London"
+date: 2019, 2020, 2021, 2022
+location: "London, UK"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
