@@ -12,7 +12,7 @@ I am a PhD candidate in computer science at King's College London. I am in the F
 
 Research interest
 ======
-Computational economics and computational finance
-Financial mathematics
-AI for finance
+* Computational economics and computational finance
+* Financial mathematics
+* AI for finance
 
