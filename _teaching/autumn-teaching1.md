@@ -1,8 +1,8 @@
 ---
-title: "7CCSMHFF High-Frequency Finance"
+title: "7CCSMQMF Quantitative Methods in Finance"
 collection: teaching
 type: "Postgraduate course"
 venue: "Department of Informatics, King's College London"
-date: 2019, 2020, 2021, 2022
+date: 2020, 2021
 location: "London, UK"
 ---
