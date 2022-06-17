@@ -11,49 +11,15 @@ redirect_from:
 
 Education
 ======
-* Wuhan University, 2012
-* Imperial College, 2014
-* King's College London, 2018 (expected)
+* Wuhan University, China, 2012 - 2016
+* London School of Economics, UK, 2015
+* Imperial College London, UK, 2016 - 2017
+* King's College London, UK, 2018 - 2022(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Institute of Automation, Chinese Academic of Sciences, China, 2018
+  * Research Assistant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* DataSpartan Technologies, UK, 2017 - 2018
+  * Quantitative Researcher
