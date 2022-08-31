@@ -24,7 +24,7 @@ Education
 
 
 
-Work experience
+Employment
 ======
 * TurinTech AI, UK, 2018 - 2022
   * Data Science Researcher (part-time intern)
