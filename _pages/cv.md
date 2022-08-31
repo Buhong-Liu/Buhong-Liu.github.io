@@ -10,10 +10,17 @@ redirect_from:
 
 Education
 ======
-* King's College London, UK, 2018 - 2022(expected), PhD in Computer Science
+* King's College London, UK, 2018 - 2022 (expected)
+  * PhD in Computer Science
+
 * Imperial College London, UK, 2016 - 2017
-* Wuhan University, China, 2012 - 2016, BSc in Applied Mathematics And Financial Mathematics
+  * Mathematics and Finance
+
+* Wuhan University, China, 2012 - 2016
+  * BSc in Applied Mathematics and Financial Mathematics with Honor of Outstanding Graduate
+
 * London School of Economics, UK, 2015
+  * Summer School: Fix Income Securities and Macroeconomics
 
 
 
